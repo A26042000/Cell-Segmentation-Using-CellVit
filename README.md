@@ -46,7 +46,7 @@
 
 Project Structure:
   -Base Machine Learning Code: Located in base_ml.
-  -Cell Segmentation: Code for datasets, training, inference, experiments, and utilities in cell_segmentation.
+  -Cell Segmentation: Code for datasets "Download Pannuke dataset from here: (https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke)", training, inference, experiments, and utilities in cell_segmentation.
   -Configurations: Config files in configs.
   -Models: PyTorch implementations and pretrained checkpoints in models.
   -Preprocessing: Preprocessing tools in preprocessing.
